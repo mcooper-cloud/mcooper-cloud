@@ -2,6 +2,6 @@
 
 <p align="center">
 	<a href="https://nimblesa.com/">
-		<img src="./img/nimblesa_logo.png" alt="Nimble SA logo" height="50">
+		<img src="https://github.com/nimblesa/.github/blob/main/profile/img/nimblesa_logo.png" alt="Nimble SA logo" height="50">
 	</a>
 </p>
